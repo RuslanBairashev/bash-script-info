@@ -1,1 +1,7 @@
 http://ruvds.com/doc/bash.pdf
+
+grep
+https://wiki.merionet.ru/servernye-resheniya/39/rukovodstvo-po-komande-grep-v-linux/
+
+find
+https://wiki.merionet.ru/servernye-resheniya/74/kak-polzovatsya-komandoj-find-linux/
